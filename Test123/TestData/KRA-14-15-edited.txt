@@ -1,0 +1,70 @@
+File is EditableFile is EditableFile is EditableFile is EditableFile is EditablekkkdKRA set up details.
+
+Testing & Delivery  - weight 50
+
+Project 1:
+Apollo Group Automation team. (Time interval of project : Apr 2014 To Oct - 2014)
+
+
+	* Development of the stable scripts  and its maintainance done for applications under my control.
+
+	* RCA done effectively for 3 daily and 10 weekly applications,and RCA report submitted on time
+
+	* on demand, Submitted All applications RCA reports in one day.
+
+	* Issues escalation on time and keep track of the escalated issue till its state attains closed.
+
+
+Project 2:
+
+ Content QA Manual/Automation testing.(Time interval of project : Nov 2014 To Mar - 2015)
+
+	
+* Performed majorly manual testing and helped team member with execution of regression test suit in selenium by altering test data.
+
+	* Significant number of issues are escaled on time and followed varification and validation process strictly inorder to attain high quality of output.
+
+	* Updated google doc's reports on day to day basis to keep track of the course completion and jira count of the particular Set.
+
+Capability Building - weight 20
+
+  * learnt new automation tool like selenium and core java, and ready to bag the oppartunity in future.
+
+  * Helping team members for any technical as well as application knowledge.
+
+  - resolved issue when one of the component failed to read pdf file when Qtp11.0 upgraded to   ALM, which in turn help the team to retain the installed ALM tool intact without any reinstalling effort.
+
+  * Encouraging the new ideas of team members and put an effort to implement it.
+
+  * Shared the knowledge with colleagues. 
+  * Willing to learn team management technique's and enhance leadership quality as priority for this year.
+
+
+
+Follow company and customer processes - weight 10
+
+
+* Activerly involved in Conducting interviews and given right feedback for the recruitment team and  my upper level reporting hierachy.
+
+* Entered the timesheet in one point or planview on time and taken approval.
+
+* Participated in customer interaction calls when there is a need of understanding requirement.
+
+
+Team collaboration - Weight 10
+
+* Share the application knowledge with team members.
+* Help the team members. (Manual/Automation)
+* Mentor the new joiners.
+
+Communication and documentation - Weight 10
+
+* On time escalation of the application issues to higher level, and followed it up till issue is resolved.
+
+* Encouraging the new ideas of team members and put an effort to implement it.
+
+* To communicate issues on time to peer level.
+
+* Share best practices learnt with the team.
+
+
